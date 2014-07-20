@@ -1,4 +1,4 @@
-DavideViolante.github.io
+davideviolante.github.io
 ========================
 
 Repository for Computational Graphics exam.
